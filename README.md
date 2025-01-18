@@ -1,4 +1,4 @@
-# ChaotixSans
+# KaloSans
 An open source Chinese sans serif font.
 
  一款开源的中文无衬线字体。
@@ -7,11 +7,11 @@ An open source Chinese sans serif font.
 
 ## 项目介绍
 
-ChaotixSans是一款开源字体，基于Adobe出品的source-han-sans衍生的无衬线字体，对部分字形细节、字符的样式和间距等方面都进行了精细处理，更加简洁清晰，提升可读性和美观性。
+KaloSans是一款开源字体，基于Adobe出品的source-han-sans衍生的无衬线字体，对部分字形细节、字符的样式和间距等方面都进行了精细处理，更加简洁清晰，提升可读性和美观性。
 
 ### 字体预览
 
-![](https://github.com/Chaotixxxx/ChaotixSans/blob/main/image/font%20preview.png)
+![](https://github.com/Chaotixxxx/KaloSans/blob/main/image/font%20preview.png)
 
 ### 技术规格
 
@@ -38,7 +38,7 @@ ChaotixSans是一款开源字体，基于Adobe出品的source-han-sans衍生的�
 | H(Heavy)   | 900    |
 
 ## 下载与安装
-请前往[**releases**](https://github.com/Chaotixxxx/ChaotixSans/releases)下载最新版本的压缩包，解压后即可得到 相应字体文件。当前页面的“Code”按钮仅包含代码和源文件，不包含字体。
+请前往[**releases**](https://github.com/Chaotixxxx/KaloSans/releases)下载最新版本的压缩包，解压后即可得到 相应字体文件。当前页面的“Code”按钮仅包含代码和源文件，不包含字体。
 
 * [Windows](https://www.microsoft.com/en-us/Typography/TrueTypeInstall.aspx)
   
@@ -59,6 +59,6 @@ ChaotixSans是一款开源字体，基于Adobe出品的source-han-sans衍生的�
 ## 捐赠
 如果您实在愿意，下面是感谢捐赠通道（可以备注您的ID与平台），十分感谢您的支持：
 
-![](https://github.com/Chaotixxxx/ChaotixSans/blob/main/image/Donation.png)
+![](https://github.com/Chaotixxxx/KaloSans/blob/main/image/Donation.png)
 
 
